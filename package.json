@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-boilerplate",
+  "name": "nodejs-mongo-demo",
   "version": "0.1.0",
-  "description": "Boilerplate para projetos NodeJS",
+  "description": "A simple NodeJS API with mongodb",
   "main": "app.js",
   "dependencies": {
     "@b2wads/logger": "2.0.0",
@@ -44,14 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com:b2wads/nodejs-boilerplate"
+    "url": "github.com:xykkong/nodejs-mongo-demo"
   },
   "keywords": [
+    "javascript",
     "nodejs",
-    "boilerplate",
-    "webapp",
-    "worker"
+    "express"
   ],
-  "author": "B2WADS",
   "license": "MIT"
 }
